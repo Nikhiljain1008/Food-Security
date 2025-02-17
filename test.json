@@ -1,0 +1,2656 @@
+{
+    "Hierarchies": {
+        "Hierarchy": [{
+                "SourceName": "PubChem",
+                "SourceID": "Compound TOC",
+                "RootID": "root",
+                "HID": 72,
+                "Information": {
+                    "Name": "PubChem Compound TOC",
+                    "Description": [
+                        "This classification was created automatically from the PubChem Compound TOC on 2024/11/11.",
+                        "Note that in some cases a number of highly populated nodes - those for which all or nearly all IDs have information - have been left out of the tree.",
+                        "The sections, along with their child subsections, that are not shown in this tree are: Computed Properties, Substances by Category, Computed Descriptors, Molecular Formula, Depositor-Supplied Synonyms, Removed Synonyms, Create Date, Modify Date, Record Title, Related Compounds, Related Compounds with Annotation, Related Substances, 2D Structure, 3D Conformer, and Chemical Vendors."
+                    ],
+                    "HNID": 1749165,
+                    "ChildID": [
+                        "node_196",
+                        "node_190",
+                        "node_1",
+                        "node_632",
+                        "node_93",
+                        "node_41",
+                        "node_158",
+                        "node_201",
+                        "node_192",
+                        "node_220",
+                        "node_635",
+                        "node_209",
+                        "node_8",
+                        "node_624",
+                        "node_428",
+                        "node_415",
+                        "node_462",
+                        "node_383",
+                        "node_376",
+                        "node_557",
+                        "node_444",
+                        "node_189",
+                        "node_647",
+                        "node_634"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound"
+                    ],
+                    "Counts": [{
+                        "Type": "Compound",
+                        "Count": 70652509
+                    }]
+                },
+                "Node": [{
+                        "NodeID": "node_42",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "MeSH Tree",
+                            "Description": [
+                                "The Medical Subject Headings (MeSH) tree for this entity.  MeSH is a controlled and hierarchically-organized vocabulary produced by the National Library of Medicine."
+                            ],
+                            "HNID": 1856932,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 123173
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_41",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Classification",
+                            "Description": [
+                                "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them."
+                            ],
+                            "HNID": 1857006,
+                            "ChildID": [
+                                "node_51",
+                                "node_89",
+                                "node_75",
+                                "node_43",
+                                "node_63",
+                                "node_44",
+                                "node_81",
+                                "node_72",
+                                "node_71",
+                                "node_76",
+                                "node_61",
+                                "node_88",
+                                "node_90",
+                                "node_83",
+                                "node_62",
+                                "node_91",
+                                "node_79",
+                                "node_64",
+                                "node_77",
+                                "node_85",
+                                "node_73",
+                                "node_59",
+                                "node_52",
+                                "node_47",
+                                "node_58",
+                                "node_86",
+                                "node_68",
+                                "node_53",
+                                "node_45",
+                                "node_65",
+                                "node_56",
+                                "node_50",
+                                "node_48",
+                                "node_57",
+                                "node_54",
+                                "node_49",
+                                "node_67",
+                                "node_60",
+                                "node_66",
+                                "node_46",
+                                "node_55",
+                                "node_84",
+                                "node_42",
+                                "node_92",
+                                "node_82",
+                                "node_80",
+                                "node_74",
+                                "node_87",
+                                "node_78",
+                                "node_70",
+                                "node_69"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 24103473
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_416",
+                        "ParentID": [
+                            "node_415"
+                        ],
+                        "Information": {
+                            "Name": "Entrez Crosslinks",
+                            "Description": [
+                                "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc."
+                            ],
+                            "HNID": 1857130,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 341351
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_415",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Related Records",
+                            "Description": [
+                                "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI."
+                            ],
+                            "HNID": 3647565,
+                            "ChildID": [
+                                "node_421",
+                                "node_418",
+                                "node_420",
+                                "node_426",
+                                "node_416",
+                                "node_425",
+                                "node_427",
+                                "node_417"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 13985692
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_51",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "CAMEO Chemicals",
+                            "Description": [
+                                "CAMEO chemical reactivity classification from CAMEO Chemicals, which is a database of hazardous chemical datasheets that emergency responders and planners can use to get response recommendations and predict hazards (e.g., explosions or toxic fumes)."
+                            ],
+                            "HNID": 1857131,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 4923
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_190",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Associated Disorders and Diseases",
+                            "Description": [
+                                "Disorders and diseases associated with the compound.  The contexts of the associations listed in this section vary. For example, a compound may cause its associated diseases (e.g., carcinogens and cancers) or have a therapeutic effect in treatment of the diseases (e.g., antihistamines and allergies), or be used as a marker/indicator for the diseases (e.g., glucose and diabetes)."
+                            ],
+                            "HNID": 1857178,
+                            "ChildID": [
+                                "node_191"
+                            ],
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 32880
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_40",
+                        "ParentID": [
+                            "node_39"
+                        ],
+                        "Information": {
+                            "Name": "MeSH Entry Terms",
+                            "Description": [
+                                "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names), as described in Kim et al., J. Cheminform., 2016, 8, 32."
+                            ],
+                            "HNID": 1857271,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 123238
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_39",
+                        "ParentID": [
+                            "node_8"
+                        ],
+                        "Information": {
+                            "Name": "Synonyms",
+                            "Description": [
+                                "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section."
+                            ],
+                            "HNID": 3647538,
+                            "ChildID": [
+                                "node_40"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 123238
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_8",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Names and Identifiers",
+                            "Description": [
+                                "Chemical names, synonyms, identifiers, and descriptors."
+                            ],
+                            "HNID": 1856948,
+                            "ChildID": [
+                                "node_9",
+                                "node_39",
+                                "node_38"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 7228338
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_61",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "EPA Safer Choice",
+                            "Description": [
+                                "EPA Safer Choice classification for this chemical.  EPA labels products so that consumers can easily choose ones that are safer for people and the environment. When consumers see the Safer Choice label on a product, they can be confident that the ingredients have been through a rigorous EPA review. The label means that EPA scientists have evaluated every ingredient in the product to ensure it meets Safer Choice's stringent criteria. When people use Safer Choice products, they are protecting their families and the environment by making safer chemical choices."
+                            ],
+                            "HNID": 1857278,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 889
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_228",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "CAMEO Chemicals",
+                            "HNID": 2166078,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 4973
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_220",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Information Sources",
+                            "Description": [
+                                "Sources of annotation information attached to PubChem compounds"
+                            ],
+                            "HNID": 2166084,
+                            "ChildID": [
+                                "node_345",
+                                "node_343",
+                                "node_362",
+                                "node_333",
+                                "node_329",
+                                "node_225",
+                                "node_372",
+                                "node_371",
+                                "node_228",
+                                "node_301",
+                                "node_298",
+                                "node_227",
+                                "node_256",
+                                "node_335",
+                                "node_244",
+                                "node_243",
+                                "node_292",
+                                "node_308",
+                                "node_310",
+                                "node_358",
+                                "node_349",
+                                "node_224",
+                                "node_366",
+                                "node_318",
+                                "node_291",
+                                "node_276",
+                                "node_302",
+                                "node_222",
+                                "node_269",
+                                "node_347",
+                                "node_251",
+                                "node_319",
+                                "node_314",
+                                "node_351",
+                                "node_306",
+                                "node_232",
+                                "node_272",
+                                "node_355",
+                                "node_235",
+                                "node_264",
+                                "node_357",
+                                "node_285",
+                                "node_363",
+                                "node_315",
+                                "node_368",
+                                "node_248",
+                                "node_323",
+                                "node_265",
+                                "node_247",
+                                "node_239",
+                                "node_259",
+                                "node_268",
+                                "node_312",
+                                "node_330",
+                                "node_246",
+                                "node_231",
+                                "node_226",
+                                "node_324",
+                                "node_375",
+                                "node_373",
+                                "node_260",
+                                "node_297",
+                                "node_356",
+                                "node_361",
+                                "node_296",
+                                "node_290",
+                                "node_289",
+                                "node_365",
+                                "node_322",
+                                "node_262",
+                                "node_293",
+                                "node_250",
+                                "node_346",
+                                "node_304",
+                                "node_354",
+                                "node_359",
+                                "node_257",
+                                "node_341",
+                                "node_364",
+                                "node_295",
+                                "node_234",
+                                "node_339",
+                                "node_334",
+                                "node_278",
+                                "node_237",
+                                "node_245",
+                                "node_313",
+                                "node_328",
+                                "node_311",
+                                "node_258",
+                                "node_300",
+                                "node_337",
+                                "node_270",
+                                "node_340",
+                                "node_369",
+                                "node_348",
+                                "node_316",
+                                "node_338",
+                                "node_326",
+                                "node_282",
+                                "node_284",
+                                "node_283",
+                                "node_325",
+                                "node_327",
+                                "node_236",
+                                "node_254",
+                                "node_242",
+                                "node_279",
+                                "node_353",
+                                "node_233",
+                                "node_267",
+                                "node_275",
+                                "node_307",
+                                "node_230",
+                                "node_229",
+                                "node_317",
+                                "node_266",
+                                "node_288",
+                                "node_273",
+                                "node_374",
+                                "node_286",
+                                "node_370",
+                                "node_344",
+                                "node_255",
+                                "node_274",
+                                "node_271",
+                                "node_280",
+                                "node_360",
+                                "node_294",
+                                "node_342",
+                                "node_249",
+                                "node_252",
+                                "node_287",
+                                "node_309",
+                                "node_238",
+                                "node_261",
+                                "node_305",
+                                "node_281",
+                                "node_331",
+                                "node_263",
+                                "node_336",
+                                "node_350",
+                                "node_241",
+                                "node_240",
+                                "node_367",
+                                "node_253",
+                                "node_352",
+                                "node_321",
+                                "node_299",
+                                "node_303",
+                                "node_320",
+                                "node_221",
+                                "node_277",
+                                "node_223",
+                                "node_332"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 49872611
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_235",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "EPA Chemicals under the TSCA",
+                            "HNID": 2166090,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 49294
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_243",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "ClinicalTrials.gov",
+                            "HNID": 2555398,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 11517
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_248",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "EPA Safer Choice",
+                            "HNID": 2965194,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 899
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_38",
+                        "ParentID": [
+                            "node_8"
+                        ],
+                        "Information": {
+                            "Name": "Record Description",
+                            "Description": [
+                                "Summary Information"
+                            ],
+                            "HNID": 3647532,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 379683
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_160",
+                        "ParentID": [
+                            "node_159"
+                        ],
+                        "Information": {
+                            "Name": "ClinicalTrials.gov",
+                            "Description": [
+                                "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine."
+                            ],
+                            "HNID": 3647573,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 11517
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_159",
+                        "ParentID": [
+                            "node_158"
+                        ],
+                        "Information": {
+                            "Name": "Clinical Trials",
+                            "Description": [
+                                "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical."
+                            ],
+                            "HNID": 1856916,
+                            "ChildID": [
+                                "node_160",
+                                "node_161",
+                                "node_162"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 14134
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_158",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Drug and Medication Information",
+                            "Description": [
+                                "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc."
+                            ],
+                            "HNID": 1857071,
+                            "ChildID": [
+                                "node_159",
+                                "node_185",
+                                "node_181",
+                                "node_182",
+                                "node_172",
+                                "node_166",
+                                "node_165",
+                                "node_183",
+                                "node_164",
+                                "node_175",
+                                "node_163",
+                                "node_173",
+                                "node_184",
+                                "node_176",
+                                "node_170",
+                                "node_179",
+                                "node_171",
+                                "node_180",
+                                "node_178",
+                                "node_188",
+                                "node_168",
+                                "node_169",
+                                "node_167",
+                                "node_174",
+                                "node_177"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 20816
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_456",
+                        "ParentID": [
+                            "node_452"
+                        ],
+                        "Information": {
+                            "Name": "Use Classification",
+                            "Description": [
+                                "This section contains use classification/category information for this compound from various sources."
+                            ],
+                            "HNID": 3647593,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 21179
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_452",
+                        "ParentID": [
+                            "node_444"
+                        ],
+                        "Information": {
+                            "Name": "Uses",
+                            "Description": [
+                                "Major uses of this chemical, including both consumer uses and industrial uses."
+                            ],
+                            "HNID": 3647595,
+                            "ChildID": [
+                                "node_453",
+                                "node_457",
+                                "node_455",
+                                "node_454",
+                                "node_456"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 33591
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_444",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Use and Manufacturing",
+                            "Description": [
+                                "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production."
+                            ],
+                            "HNID": 3647592,
+                            "ChildID": [
+                                "node_460",
+                                "node_452",
+                                "node_445",
+                                "node_449",
+                                "node_451",
+                                "node_446",
+                                "node_448",
+                                "node_459",
+                                "node_450",
+                                "node_447",
+                                "node_458"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 66505
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_212",
+                        "ParentID": [
+                            "node_209"
+                        ],
+                        "Information": {
+                            "Name": "NLM Curated PubMed Citations",
+                            "Description": [
+                                "The NLM Curated PubMed Citations section links to all PubMed records that are tagged with the same MeSH term that has been associated with a particular compound."
+                            ],
+                            "HNID": 3647693,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 119639
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_209",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Literature",
+                            "Description": [
+                                "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059."
+                            ],
+                            "HNID": 1857367,
+                            "ChildID": [
+                                "node_210",
+                                "node_215",
+                                "node_216",
+                                "node_218",
+                                "node_219",
+                                "node_212",
+                                "node_214",
+                                "node_213",
+                                "node_211",
+                                "node_217"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 2538923
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_70",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "UN GHS Classification",
+                            "Description": [
+                                "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures."
+                            ],
+                            "HNID": 3654886,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 230927
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_426",
+                        "ParentID": [
+                            "node_415"
+                        ],
+                        "Information": {
+                            "Name": "Component Compounds",
+                            "Description": [
+                                "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds)."
+                            ],
+                            "HNID": 3948061,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 10578725
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_74",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "NORMAN Suspect List Exchange Classification",
+                            "Description": [
+                                "A classification from the NORMAN Suspect List Exchange, which serve as a central access point to find lists of chemicals with environmental concerns."
+                            ],
+                            "HNID": 3956432,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 127822
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_288",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "NORMAN Suspect List Exchange",
+                            "HNID": 3956436,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 128252
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_292",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "Comparative Toxicogenomics Database (CTD)",
+                            "HNID": 4032642,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 14488
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_300",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "Medical Subject Headings (MeSH)",
+                            "HNID": 4198065,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 123239
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_308",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "Consumer Product Information Database (CPID)",
+                            "HNID": 4364658,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 4160
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_81",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "Consumer Product Information Database Classification",
+                            "Description": [
+                                "Classification of the consumer products containing this compound, from the Consumer Product Information Database."
+                            ],
+                            "HNID": 4364672,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 4101
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_322",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+                            "HNID": 5541179,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 13239
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_646",
+                        "ParentID": [
+                            "node_635"
+                        ],
+                        "Information": {
+                            "Name": "Chemical-Target Interactions",
+                            "Description": [
+                                "Interactions between targets and this compound"
+                            ],
+                            "HNID": 5564639,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 85950
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_635",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Interactions and Pathways",
+                            "Description": [
+                                "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved."
+                            ],
+                            "HNID": 5564640,
+                            "ChildID": [
+                                "node_642",
+                                "node_636",
+                                "node_646",
+                                "node_644",
+                                "node_645",
+                                "node_641"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 215115
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_427",
+                        "ParentID": [
+                            "node_415"
+                        ],
+                        "Information": {
+                            "Name": "Other Relationships",
+                            "Description": [
+                                "Other types of related records, such as alternative forms, monomers or polymers, components of important mixtures, etc. In this table, the relationship is in parentheses, and the implied grammar is \"the compound summarized on this page ... has this relationship to ... this item in the table.\""
+                            ],
+                            "HNID": 5592891,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 52203
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_218",
+                        "ParentID": [
+                            "node_209"
+                        ],
+                        "Information": {
+                            "Name": "Consolidated References",
+                            "Description": [
+                                "The consolidated references include literature data from all sources including Springer Nature, Thieme Chemistry, Wiley, Nature journals, depositor provided citations, and NLM curated PubMed citations."
+                            ],
+                            "HNID": 5599342,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 2454321
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_356",
+                        "ParentID": [
+                            "node_220"
+                        ],
+                        "Information": {
+                            "Name": "GHS Classification (UNECE)",
+                            "HNID": 12940424,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 230927
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_97",
+                        "ParentID": [
+                            "node_94"
+                        ],
+                        "Information": {
+                            "Name": "Cosmetics",
+                            "Description": [
+                                "Chemicals are used as ingredients in cosmetic products."
+                            ],
+                            "HNID": 12950174,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 4581
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_94",
+                        "ParentID": [
+                            "node_93"
+                        ],
+                        "Information": {
+                            "Name": "Chemical Classes",
+                            "Description": [
+                                "Chemical classes are groupings that relate chemicals by similar features. Chemicals can be classified by their structure (e.g., hydrocarbons), uses (e.g., pesticides), physical properties, radiological properties, or other factors."
+                            ],
+                            "HNID": 1857014,
+                            "ChildID": [
+                                "node_107",
+                                "node_97",
+                                "node_98",
+                                "node_104",
+                                "node_96",
+                                "node_102",
+                                "node_95",
+                                "node_99",
+                                "node_100",
+                                "node_105",
+                                "node_101",
+                                "node_106",
+                                "node_111",
+                                "node_103"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 80995
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_93",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Chemical and Physical Properties",
+                            "Description": [
+                                "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards."
+                            ],
+                            "HNID": 1857008,
+                            "ChildID": [
+                                "node_94",
+                                "node_112",
+                                "node_157"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 324614
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_90",
+                        "ParentID": [
+                            "node_41"
+                        ],
+                        "Information": {
+                            "Name": "EPA TSCA and CDR Classification",
+                            "Description": [
+                                "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA. The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status."
+                            ],
+                            "HNID": 12951733,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 49091
+                            }]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "CAMEO Chemicals",
+                "SourceID": "CameoReactivityTree",
+                "RootID": "root",
+                "HID": 86,
+                "Information": {
+                    "Name": "CAMEO Chemical Reactivity Classification",
+                    "Description": [
+                        "CAMEO Chemical Reactivity Classification was created based on the reactive groups."
+                    ],
+                    "Comments": [
+                        "Reactive groups are categories of chemicals that typically react in similar ways because they are similar in their chemical structure. For purposes of predicting reactivity between mixed chemicals, each substance in CAMEO Chemicals has been assigned to one or more reactive groups, based on the known chemistry of that substance."
+                    ],
+                    "URL": "https://cameochemicals.noaa.gov/browse/react",
+                    "HNID": 3261951,
+                    "ChildID": [
+                        "node_1",
+                        "node_147",
+                        "node_293",
+                        "node_439",
+                        "node_585",
+                        "node_731",
+                        "node_877",
+                        "node_1023",
+                        "node_1169",
+                        "node_1315",
+                        "node_1461",
+                        "node_1607",
+                        "node_1753",
+                        "node_1899",
+                        "node_2045",
+                        "node_2191",
+                        "node_2337",
+                        "node_2483",
+                        "node_2629",
+                        "node_2775",
+                        "node_2921",
+                        "node_3067",
+                        "node_3213",
+                        "node_3359",
+                        "node_3505",
+                        "node_3651",
+                        "node_3797",
+                        "node_3943",
+                        "node_4089",
+                        "node_4235",
+                        "node_4381",
+                        "node_4527",
+                        "node_4673",
+                        "node_4819",
+                        "node_4965",
+                        "node_5111",
+                        "node_5257",
+                        "node_5403",
+                        "node_5549",
+                        "node_5695",
+                        "node_5841",
+                        "node_5987",
+                        "node_6133",
+                        "node_6279",
+                        "node_6425",
+                        "node_6571",
+                        "node_6717",
+                        "node_6863",
+                        "node_7009",
+                        "node_7155",
+                        "node_7301",
+                        "node_7447",
+                        "node_7593",
+                        "node_7739",
+                        "node_7885",
+                        "node_8031",
+                        "node_8177",
+                        "node_8323",
+                        "node_8469",
+                        "node_8615",
+                        "node_8761",
+                        "node_8907",
+                        "node_9053",
+                        "node_9199",
+                        "node_9345",
+                        "node_9491",
+                        "node_9637",
+                        "node_9783"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound"
+                    ],
+                    "Counts": [{
+                        "Type": "Compound",
+                        "Count": 4923
+                    }]
+                },
+                "Node": [{
+                        "NodeID": "node_3797",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Esters, Sulfate Esters, Phosphate Esters, Thiophosphate Esters, and Borate Esters",
+                            "Description": [
+                                "Reactive group: Esters, Sulfate Esters, Phosphate Esters, Thiophosphate Esters, and Borate Esters"
+                            ],
+                            "URL": "https://cameochemicals.noaa.gov/react/13",
+                            "HNID": 3263980,
+                            "ChildID": [
+                                "node_3798",
+                                "node_3804",
+                                "node_3800",
+                                "node_3806",
+                                "node_3802"
+                            ],
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 671
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_4819",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Hydrocarbons, Aliphatic Unsaturated",
+                            "Description": [
+                                "Reactive group: Hydrocarbons, Aliphatic Unsaturated"
+                            ],
+                            "URL": "https://cameochemicals.noaa.gov/react/28",
+                            "HNID": 3264526,
+                            "ChildID": [
+                                "node_4820",
+                                "node_4826",
+                                "node_4822",
+                                "node_4828",
+                                "node_4824"
+                            ],
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 619
+                            }]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "Consumer Product Information Database (CPID)",
+                "SourceID": "cpid_tree",
+                "RootID": "root",
+                "HID": 110,
+                "Information": {
+                    "Name": "Consumer Products Category Classification",
+                    "Description": [
+                        "The Consumer product category classification is based on the Consumer Product Information Database ##2001-2021 by DeLima Associates."
+                    ],
+                    "URL": "https://www.whatsinproducts.com/",
+                    "HNID": 4364660,
+                    "ChildID": [
+                        "node_1",
+                        "node_2",
+                        "node_3",
+                        "node_4",
+                        "node_5",
+                        "node_6",
+                        "node_7",
+                        "node_8",
+                        "node_9",
+                        "node_10"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound"
+                    ],
+                    "Counts": [{
+                        "Type": "Compound",
+                        "Count": 4101
+                    }]
+                },
+                "Node": [{
+                        "NodeID": "node_6",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Inside the Home",
+                            "HNID": 4364666,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 2150
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_8",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Personal Care",
+                            "HNID": 4364668,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 2069
+                            }]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "EPA Chemicals under the TSCA",
+                "SourceID": "epa_tsca_tree",
+                "RootID": "root",
+                "HID": 132,
+                "Information": {
+                    "Name": "EPA TSCA Classification",
+                    "Description": [
+                        "EPA Chemicals under the Toxic Substances Control Act (TSCA) collection contains information on chemicals and their regulation under TSCA. The chemical classification tree is created based on the TSCA substance regulatory flag, UVCB, and commercial activity status.<br>Update: 2024-07-29 14:44:02"
+                    ],
+                    "URL": "https://www.epa.gov/tsca-inventory",
+                    "HNID": 12950277,
+                    "ChildID": [
+                        "node_1",
+                        "node_5",
+                        "node_4"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound"
+                    ],
+                    "Counts": [{
+                        "Type": "Compound",
+                        "Count": 49091
+                    }]
+                },
+                "Node": [{
+                        "NodeID": "node_2",
+                        "ParentID": [
+                            "node_1"
+                        ],
+                        "Information": {
+                            "Name": "ACTIVE",
+                            "Description": [
+                                "Commercial Activity Status: ACTIVE"
+                            ],
+                            "HNID": 12950284,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 26578
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_1",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Commercial Activity Status",
+                            "Description": [
+                                "Indicates the Commercial Activity Status as active or inactive."
+                            ],
+                            "HNID": 12950278,
+                            "ChildID": [
+                                "node_2",
+                                "node_3"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 49091
+                            }]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "EPA Safer Choice",
+                "SourceID": "EPA_Safer_Choice_tree",
+                "RootID": "root",
+                "HID": 81,
+                "Information": {
+                    "Name": "EPA Safer Chemical Ingredients Classification",
+                    "Description": [
+                        "Safer Choice of the U.S. Environmental Protection Agency (EPA) helps consumers, businesses, and purchasers find products that perform and are safer for human health and the environment. This classification is created based on the use classes of each chemical ingredient from the EPA Safer Choice."
+                    ],
+                    "URL": "https://www.epa.gov/saferchoice",
+                    "HNID": 2955724,
+                    "ChildID": [
+                        "node_1",
+                        "node_40",
+                        "node_16",
+                        "node_29",
+                        "node_42",
+                        "node_43",
+                        "node_44",
+                        "node_45",
+                        "node_46",
+                        "node_47",
+                        "node_48",
+                        "node_49",
+                        "node_50",
+                        "node_51",
+                        "node_52",
+                        "node_53",
+                        "node_54",
+                        "node_55",
+                        "node_56"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound",
+                        "Substance"
+                    ],
+                    "Counts": [{
+                            "Type": "Compound",
+                            "Count": 889
+                        },
+                        {
+                            "Type": "Substance",
+                            "Count": 103287
+                        }
+                    ]
+                },
+                "Node": [{
+                        "NodeID": "node_51",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Processing Aids and Additives",
+                            "HNID": 2955739,
+                            "Match": true,
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 193
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 27428
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_11",
+                        "ParentID": [
+                            "node_1"
+                        ],
+                        "Information": {
+                            "Name": "Processing Aids and Additives",
+                            "HNID": 2955755,
+                            "Match": true,
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 160
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 21143
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_1",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "<img src=\"https://pubchem.ncbi.nlm.nih.gov/images/epasafe/green.svg\" alt=\"Green Circle\" /> Green Circle",
+                            "Description": [
+                                "Green circle - The chemical has been verified to be of low concern based on experimental and modeled data."
+                            ],
+                            "HNID": 2955725,
+                            "ChildID": [
+                                "node_2",
+                                "node_3",
+                                "node_4",
+                                "node_5",
+                                "node_6",
+                                "node_7",
+                                "node_8",
+                                "node_9",
+                                "node_10",
+                                "node_11",
+                                "node_12",
+                                "node_13",
+                                "node_14",
+                                "node_15"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 626
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 77689
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "GHS Classification (UNECE)",
+                "SourceID": "UN_GHS_tree",
+                "RootID": "root",
+                "HID": 83,
+                "Information": {
+                    "Name": "GHS Classification Tree",
+                    "Description": [
+                        "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures. It sets up criteria for the classification of chemicals for physical-chemical, health, and environmental hazards of chemical substances and mixtures and sets up standardized hazard information to facilitate global trade of chemicals.  Please note that obsolete codes are added in this classification for completeness purposes, as they are still in use. Any obsolete codes are annotated as such."
+                    ],
+                    "Comments": [
+                        "For more information, visit <a href=\"https://pubchem.ncbi.nlm.nih.gov/ghs/\">this website</a>."
+                    ],
+                    "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html",
+                    "HNID": 3069707,
+                    "ChildID": [
+                        "node_105",
+                        "node_146",
+                        "node_1",
+                        "node_156",
+                        "node_257",
+                        "node_256"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound"
+                    ],
+                    "Counts": [{
+                        "Type": "Compound",
+                        "Count": 230931
+                    }]
+                },
+                "Node": [{
+                        "NodeID": "node_256",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Not Classified",
+                            "Description": [
+                                "No hazards have been classified (by majority companies[ECHA] or information source"
+                            ],
+                            "HNID": 3662369,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 12218
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_258",
+                        "ParentID": [
+                            "node_257"
+                        ],
+                        "Information": {
+                            "Name": "ECHA C&P Inventory",
+                            "Description": [
+                                "GHS information from the ECHA C&L Inventory"
+                            ],
+                            "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+                            "HNID": 12903565,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 229707
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_257",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Sources",
+                            "Description": [
+                                "GHS information sources"
+                            ],
+                            "HNID": 12903564,
+                            "ChildID": [
+                                "node_258",
+                                "node_259",
+                                "node_261",
+                                "node_260"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 230931
+                            }]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "Haz-Map, Information on Hazardous Chemicals and Occupational Diseases",
+                "SourceID": "hazmap_tree",
+                "RootID": "root",
+                "HID": 121,
+                "Information": {
+                    "Name": "Haz-Map Classification",
+                    "Description": [
+                        "Haz-Map## is an occupational health database designed for health and safety professionals and for consumers seeking information about the adverse effects of workplace exposures to chemical and biological agents. The main links in Haz-Map are between chemicals and occupational diseases. These links have been established using current scientific evidence. Haz-Map classification provides the categories or classes of the chemical agents based on the activities, processes, and diseases. <br>Update: 2024-09-12 08:42:02"
+                    ],
+                    "URL": "https://haz-map.com/",
+                    "HNID": 5541180,
+                    "ChildID": [
+                        "node_32",
+                        "node_64",
+                        "node_1",
+                        "node_378",
+                        "node_631"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound"
+                    ],
+                    "Counts": [{
+                        "Type": "Compound",
+                        "Count": 13072
+                    }]
+                },
+                "Node": [{
+                        "NodeID": "node_82",
+                        "ParentID": [
+                            "node_65"
+                        ],
+                        "Information": {
+                            "Name": "Plant Oils and Extracts",
+                            "Description": [
+                                "Set of Hazardous Agents of type Biological Agents and subtype Plant Oils and Extracts."
+                            ],
+                            "URL": "https://haz-map.com/Agents/(BrowseByCategory)/7?sub_cat_id=Plant+Oils+and+Extracts",
+                            "HNID": 5541255,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 160
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_65",
+                        "ParentID": [
+                            "node_64"
+                        ],
+                        "Information": {
+                            "Name": "Biological Agents",
+                            "Description": [
+                                "Contains groupings of Hazardous Agents of the type Biological Agents"
+                            ],
+                            "URL": "https://haz-map.com/Agents/(BrowseByCategory)/7",
+                            "HNID": 5541540,
+                            "ChildID": [
+                                "node_66",
+                                "node_67",
+                                "node_68",
+                                "node_69",
+                                "node_70",
+                                "node_71",
+                                "node_72",
+                                "node_73",
+                                "node_74",
+                                "node_75",
+                                "node_76",
+                                "node_77",
+                                "node_78",
+                                "node_79",
+                                "node_80",
+                                "node_81",
+                                "node_82",
+                                "node_83",
+                                "node_84",
+                                "node_85",
+                                "node_86",
+                                "node_87",
+                                "node_88",
+                                "node_89",
+                                "node_90",
+                                "node_91",
+                                "node_92",
+                                "node_93"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 1292
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_64",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Hazardous Agents",
+                            "Description": [
+                                "Contains groupings of Hazardous Agents"
+                            ],
+                            "URL": "https://haz-map.com/Agents",
+                            "HNID": 5541869,
+                            "ChildID": [
+                                "node_65",
+                                "node_94",
+                                "node_107",
+                                "node_136",
+                                "node_140",
+                                "node_194",
+                                "node_271",
+                                "node_290",
+                                "node_322",
+                                "node_327",
+                                "node_346",
+                                "node_363"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 13072
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_646",
+                        "ParentID": [
+                            "node_645"
+                        ],
+                        "Information": {
+                            "Name": "Metal Preparation and Pouring",
+                            "Description": [
+                                "Set of Hazardous Agents related to Processes of type Foundry and subtype Metal Preparation and Pouring.<br>Lead is a hazard in nonferrous foundries making leaded bronzes and brasses. The scrap metals used in ferrous foundries may be contaminated with lead. Exposure to chromium, nickel, manganese, and fumes of other alloyed metals may occur in steel alloy foundries. Crystalline silica, carbon monoxide (especially if sea coal is used), PAHs (formed by the pyrolysis of organic material in green sand), MDI, formaldehyde, acrolein, and benzene are also released during melting and pouring. Beryllium fume is produced in foundries making copper-beryllium alloy. [Burgess, p. 127-35] \"In the foundry environment, CO is mainly produced by cupola melting and casting operations.\" [IARC 2012: Iron and steel founding] See the agent \"Iron and steel founding.\""
+                            ],
+                            "URL": "https://haz-map.com/Processes/26",
+                            "HNID": 5541815,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 68
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_645",
+                        "ParentID": [
+                            "node_631"
+                        ],
+                        "Information": {
+                            "Name": "Foundry",
+                            "Description": [
+                                "Contains groupings of processes of type Foundry"
+                            ],
+                            "URL": "https://haz-map.com/Processes/(BrowseByCategory)/?cat_id=Foundry",
+                            "HNID": 5541860,
+                            "ChildID": [
+                                "node_646",
+                                "node_647",
+                                "node_648"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 116
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_631",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Processes",
+                            "Description": [
+                                "Contains groupings of Processes"
+                            ],
+                            "URL": "https://haz-map.com/Processes",
+                            "HNID": 5541871,
+                            "ChildID": [
+                                "node_632",
+                                "node_637",
+                                "node_645",
+                                "node_649",
+                                "node_655",
+                                "node_676",
+                                "node_685",
+                                "node_688",
+                                "node_691"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 3821
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_647",
+                        "ParentID": [
+                            "node_645"
+                        ],
+                        "Information": {
+                            "Name": "Molding and Core Making",
+                            "Description": [
+                                "Set of Hazardous Agents related to Processes of type Foundry and subtype Molding and Core Making.<br>Molds are made of green sand, a mixture of silica sand, bentonite, cereal or wood flours, and water or oil. Olivine sand is replacing silica sand to reduce the hazard of silicosis. Bentonite is clay-type mineral that is considered a nuisance dust. Shell molding uses a resin-bonded sand for production of small parts with potential exposure to phenol, formaldehyde, ammonia, hexamethylene tetramine, and carbon monoxide. The core defines the cavity within a casting. The core must be mechanically strong, but friable for easy removal. Modern coremaking uses a series of binder systems. The No-Bake system results in exposures to formaldehyde, phenol, triethylamine, and SO2. MDI may be used, but inhalation exposure is thought to be low during pouring, cooling, and shakeout. Resins may cause allergic contact dermatitis. Chemical hazards associated with using the Hot-Box system include formaldehyde, phenol, silica, furfural alcohol, ammonia, and carbon monoxide. [Burgess, p. 109-26] \"Organic binder materials for cores and moulds include furan, phenol-formaldehyde and urethane resins as well as oleo-resinous oils. . . .\"Furan binders contain free furfuryl alcohol, which can volatize during mixing, moulding or core-making. Similarly, furan and phenolic resins may emit formaldehyde, phenol and other derivatives by volatilization or thermal decomposition. [IARC 2012: Iron and steel founding] See \"Respiratory symptoms and lung function in foundry workers using the hot box method: a 4-year follow-up.\" [PMID 22173285]"
+                            ],
+                            "URL": "https://haz-map.com/Processes/22",
+                            "HNID": 5541816,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 48
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_653",
+                        "ParentID": [
+                            "node_649"
+                        ],
+                        "Information": {
+                            "Name": "Metal Machining",
+                            "Description": [
+                                "Set of Hazardous Agents related to Processes of type Heat or Machine and subtype Metal Machining.<br>In conventional machining, metal exposure from the cutting tool is insignificant. Stainless steel machining may expose the operator to chromium, nickel, and cobalt. Machining of beryllium alloys is hazardous. Besides the conventional method, other types of metal machining include electrochemical, electrical discharge, hard metal, laser, and waterjet cutting. [Burgess, p. 146] Ethanolamines are used in metalworking fluids to stabilize pH and prevent corrosion. Biocides are used to inhibit bacterial and fungal growth in metalworking fluid reservoirs. Nitrosamines have been found in metalworking fluids. Hypersensitivity pneumonitis (HP) may develop in workers exposed to microbially contaminated, water-based metalworking fluids. [Occupational Exposure to Metalworking Fluids. DHHS (NIOSH) Publication No. 98-102, 1998] See the agent \"Oil mist, mineral.\""
+                            ],
+                            "URL": "https://haz-map.com/Processes/35",
+                            "HNID": 5541821,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 131
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_649",
+                        "ParentID": [
+                            "node_631"
+                        ],
+                        "Information": {
+                            "Name": "Heat or Machine",
+                            "Description": [
+                                "Contains groupings of processes of type Heat or Machine"
+                            ],
+                            "URL": "https://haz-map.com/Processes/(BrowseByCategory)/?cat_id=Heat+or+Machine",
+                            "HNID": 5541861,
+                            "ChildID": [
+                                "node_650",
+                                "node_651",
+                                "node_652",
+                                "node_653",
+                                "node_654"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 191
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_675",
+                        "ParentID": [
+                            "node_655"
+                        ],
+                        "Information": {
+                            "Name": "Textiles (Printing, Dyeing, or Finishing)",
+                            "Description": [
+                                "Set of Hazardous Agents related to Processes of type Industry and subtype Textiles (Printing, Dyeing, or Finishing).<br>Textile operations include fiber synthesis, weaving, manufacturing, dyeing, and finishing. [OSHA Technical Links: http://www.osha.gov/SLTC/textiles/index.html] See \"Textiles (Fiber and Fabric Manufacturing)"
+                            ],
+                            "URL": "https://haz-map.com/Processes/235",
+                            "HNID": 5541842,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 621
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_655",
+                        "ParentID": [
+                            "node_631"
+                        ],
+                        "Information": {
+                            "Name": "Industry",
+                            "Description": [
+                                "Contains groupings of processes of type Industry"
+                            ],
+                            "URL": "https://haz-map.com/Processes/(BrowseByCategory)/?cat_id=Industry",
+                            "HNID": 5541862,
+                            "ChildID": [
+                                "node_656",
+                                "node_657",
+                                "node_658",
+                                "node_659",
+                                "node_660",
+                                "node_661",
+                                "node_662",
+                                "node_663",
+                                "node_664",
+                                "node_665",
+                                "node_666",
+                                "node_667",
+                                "node_668",
+                                "node_669",
+                                "node_670",
+                                "node_671",
+                                "node_672",
+                                "node_673",
+                                "node_674",
+                                "node_675"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 3035
+                            }]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "Medical Subject Headings (MeSH)",
+                "SourceID": "DescTree",
+                "RootID": "root",
+                "HID": 1,
+                "Information": {
+                    "Name": "MeSH Tree",
+                    "Description": [
+                        "MeSH (Medical Subject Headings) is the NLM controlled vocabulary thesaurus used for indexing articles for PubMed."
+                    ],
+                    "Comments": [
+                        "Created from PCpm DB on 11/12/2024 04:02:05"
+                    ],
+                    "URL": "http://www.nlm.nih.gov/mesh/meshhome.html",
+                    "HNID": 1,
+                    "ChildID": [
+                        "node_5728",
+                        "node_51094",
+                        "node_41529",
+                        "node_86559",
+                        "node_16910",
+                        "node_71103",
+                        "node_70538",
+                        "node_44566",
+                        "node_43269",
+                        "node_43503",
+                        "node_1",
+                        "node_41096",
+                        "node_58156",
+                        "node_12899",
+                        "node_20850"
+                    ],
+                    "HasCountsOfType": [
+                        "Cell",
+                        "Compound",
+                        "Gene",
+                        "Protein",
+                        "PubMed",
+                        "Substance",
+                        "Taxonomy"
+                    ],
+                    "Counts": [{
+                            "Type": "Cell",
+                            "Count": 31
+                        },
+                        {
+                            "Type": "Compound",
+                            "Count": 123173
+                        },
+                        {
+                            "Type": "Gene",
+                            "Count": 68189
+                        },
+                        {
+                            "Type": "Protein",
+                            "Count": 122370
+                        },
+                        {
+                            "Type": "PubMed",
+                            "Count": 31872002
+                        },
+                        {
+                            "Type": "Substance",
+                            "Count": 2748389
+                        },
+                        {
+                            "Type": "Taxonomy",
+                            "Count": 6500
+                        }
+                    ]
+                },
+                "Node": [{
+                        "NodeID": "node_129699",
+                        "ParentID": [
+                            "node_129548"
+                        ],
+                        "Information": {
+                            "Name": "Palm Oil",
+                            "Description": [
+                                "Nutritive oil extracted from the fleshy mesocarp of the fruit of the African palm tree, Elaeis guineensis."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/2023187",
+                            "HNID": 3162099,
+                            "ChildID": [
+                                "node_129700"
+                            ],
+                            "Match": true,
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 1
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 27
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_129548",
+                        "ParentID": [
+                            "node_127212"
+                        ],
+                        "Information": {
+                            "Name": "Plant Oils",
+                            "Description": [
+                                "Oils derived from plants or plant products."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68010938",
+                            "HNID": 1330255,
+                            "ChildID": [
+                                "node_129549",
+                                "node_129665",
+                                "node_129707",
+                                "node_129669",
+                                "node_129695",
+                                "node_129699",
+                                "node_129690",
+                                "node_129642",
+                                "node_129646",
+                                "node_129570",
+                                "node_129664",
+                                "node_129705",
+                                "node_129663",
+                                "node_129668",
+                                "node_129569",
+                                "node_129702",
+                                "node_129704",
+                                "node_129703",
+                                "node_129706",
+                                "node_129662"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 22
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 40425
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 1324
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_127212",
+                        "ParentID": [
+                            "node_126089"
+                        ],
+                        "Information": {
+                            "Name": "Plant Preparations",
+                            "Description": [
+                                "Material prepared from plants."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68028321",
+                            "HNID": 1381288,
+                            "ChildID": [
+                                "node_127213",
+                                "node_129548",
+                                "node_129710",
+                                "node_129780",
+                                "node_129547",
+                                "node_129782"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 155
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 286836
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 5897
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_126089",
+                        "ParentID": [
+                            "node_124737"
+                        ],
+                        "Information": {
+                            "Name": "Biological Products",
+                            "Description": [
+                                "Complex pharmaceutical substances, preparations, or matter derived from organisms usually obtained by biological methods or assay."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68001688",
+                            "HNID": 1382905,
+                            "ChildID": [
+                                "node_129822",
+                                "node_126197",
+                                "node_129783",
+                                "node_129815",
+                                "node_126090",
+                                "node_127212",
+                                "node_126222",
+                                "node_126283",
+                                "node_129820",
+                                "node_129813",
+                                "node_129821",
+                                "node_129814"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 183
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 695583
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 7251
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_124737",
+                        "ParentID": [
+                            "node_86559"
+                        ],
+                        "Information": {
+                            "Name": "Complex Mixtures",
+                            "Description": [
+                                "Mixtures of many components in inexact proportions, usually natural, such as PLANT EXTRACTS; VENOMS; and MANURE. These are distinguished from DRUG COMBINATIONS which have only a few components in definite proportions."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68045424",
+                            "HNID": 1264637,
+                            "ChildID": [
+                                "node_126089",
+                                "node_126028",
+                                "node_129837",
+                                "node_124739",
+                                "node_129849",
+                                "node_126020",
+                                "node_129826",
+                                "node_129867",
+                                "node_130008",
+                                "node_124743",
+                                "node_129880",
+                                "node_124761",
+                                "node_130070",
+                                "node_126018",
+                                "node_130083",
+                                "node_126019",
+                                "node_129825",
+                                "node_130084",
+                                "node_129866",
+                                "node_124738"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 407
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 1272566
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 11675
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_86559",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": "Chemicals and Drugs Category",
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/1000068",
+                            "HNID": 1448648,
+                            "ChildID": [
+                                "node_331578",
+                                "node_547028",
+                                "node_568444",
+                                "node_86560",
+                                "node_694577",
+                                "node_124737",
+                                "node_842903",
+                                "node_598073",
+                                "node_882951",
+                                "node_273040",
+                                "node_891151",
+                                "node_580225",
+                                "node_313546",
+                                "node_130085",
+                                "node_591668",
+                                "node_904717"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 123173
+                                },
+                                {
+                                    "Type": "Gene",
+                                    "Count": 68189
+                                },
+                                {
+                                    "Type": "Protein",
+                                    "Count": 122370
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 16900247
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 2748389
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_901599",
+                        "ParentID": [
+                            "node_901448"
+                        ],
+                        "Information": {
+                            "Name": "Palm Oil",
+                            "Description": [
+                                "Nutritive oil extracted from the fleshy mesocarp of the fruit of the African palm tree, Elaeis guineensis."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/2023187",
+                            "HNID": 3162099,
+                            "ChildID": [
+                                "node_901600"
+                            ],
+                            "Match": true,
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 1
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 27
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_901448",
+                        "ParentID": [
+                            "node_901269"
+                        ],
+                        "Information": {
+                            "Name": "Plant Oils",
+                            "Description": [
+                                "Oils derived from plants or plant products."
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68010938",
+                            "HNID": 1330255,
+                            "ChildID": [
+                                "node_901449",
+                                "node_901565",
+                                "node_901607",
+                                "node_901569",
+                                "node_901595",
+                                "node_901599",
+                                "node_901590",
+                                "node_901542",
+                                "node_901546",
+                                "node_901470",
+                                "node_901564",
+                                "node_901605",
+                                "node_901563",
+                                "node_901568",
+                                "node_901469",
+                                "node_901602",
+                                "node_901604",
+                                "node_901603",
+                                "node_901606",
+                                "node_901562"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 22
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 40425
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 1324
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_901269",
+                        "ParentID": [
+                            "node_891151"
+                        ],
+                        "Information": {
+                            "Name": "Oils",
+                            "Description": [
+                                "Unctuous combustible substances that are liquid or easily liquefiable on warming, and are soluble in ether but insoluble in water. Such substances, depending on their origin, are classified as animal, mineral, or vegetable oils. Depending on their behavior on heating, they are volatile or fixed. (Dorland, 28th ed)"
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68009821",
+                            "HNID": 1389733,
+                            "ChildID": [
+                                "node_901315",
+                                "node_901270",
+                                "node_901448",
+                                "node_901610"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 109
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 98303
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 3082
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "NodeID": "node_891151",
+                        "ParentID": [
+                            "node_86559"
+                        ],
+                        "Information": {
+                            "Name": "Lipids",
+                            "Description": [
+                                "A generic term for fats and lipoids, the alcohol-ether-soluble constituents of protoplasm, which are insoluble in water. They comprise the fats, fatty oils, essential oils, waxes, phospholipids, glycolipids, sulfolipids, aminolipids, chromolipids (lipochromes), and fatty acids. (Grant and Hackh's Chemical Dictionary, 5th ed)"
+                            ],
+                            "URL": "http://www.ncbi.nlm.nih.gov/mesh/68008055",
+                            "HNID": 1447947,
+                            "ChildID": [
+                                "node_900271",
+                                "node_891179",
+                                "node_898222",
+                                "node_900525",
+                                "node_898965",
+                                "node_900846",
+                                "node_900000",
+                                "node_901626",
+                                "node_900865",
+                                "node_901749",
+                                "node_901269",
+                                "node_891152",
+                                "node_899855",
+                                "node_899967",
+                                "node_900270",
+                                "node_900864"
+                            ],
+                            "Counts": [{
+                                    "Type": "Compound",
+                                    "Count": 7310
+                                },
+                                {
+                                    "Type": "PubMed",
+                                    "Count": 1319818
+                                },
+                                {
+                                    "Type": "Substance",
+                                    "Count": 170827
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "SourceName": "NORMAN Suspect List Exchange",
+                "SourceID": "norman_sle_tree",
+                "RootID": "root",
+                "HID": 101,
+                "Information": {
+                    "Name": "NORMAN Suspect List Exchange Classification",
+                    "Description": [
+                        "The NORMAN Suspect List Exchange (NORMAN-SLE) is a central access point for NORMAN members (and others) to find suspect lists relevant for their environmental monitoring questions.<br>Update: 2024-11-12 18:00:02"
+                    ],
+                    "Comments": [
+                        "This Exchange documents all individual collections that (will) form a part of NORMAN SusDat, the merged NORMAN Substance Database (DOI:10.5281/zenodo.2664077). Each list/collection has a DOI in <a href=\"https://zenodo.org/communities/norman-sle\">Zenodo</a>."
+                    ],
+                    "URL": "https://www.norman-network.com/nds/SLE/",
+                    "HNID": 3981444,
+                    "ChildID": [
+                        "node_667",
+                        "node_1",
+                        "node_793",
+                        "node_1974",
+                        "node_748",
+                        "node_415",
+                        "node_740",
+                        "node_418",
+                        "node_734",
+                        "node_636",
+                        "node_737",
+                        "node_825",
+                        "node_3781",
+                        "node_3753",
+                        "node_2013",
+                        "node_3936",
+                        "node_3774",
+                        "node_3772",
+                        "node_3778",
+                        "node_3777",
+                        "node_3780",
+                        "node_3779",
+                        "node_3773",
+                        "node_3917",
+                        "node_3776",
+                        "node_3775",
+                        "node_3678",
+                        "node_3669",
+                        "node_3714",
+                        "node_3683",
+                        "node_3702",
+                        "node_3692",
+                        "node_3712",
+                        "node_3730",
+                        "node_3741",
+                        "node_3699",
+                        "node_3682",
+                        "node_3748",
+                        "node_3670",
+                        "node_3723",
+                        "node_3704",
+                        "node_3733",
+                        "node_3717",
+                        "node_3697",
+                        "node_3746",
+                        "node_3686",
+                        "node_3747",
+                        "node_3674",
+                        "node_3691",
+                        "node_3708",
+                        "node_3680",
+                        "node_3700",
+                        "node_3736",
+                        "node_3687",
+                        "node_3729",
+                        "node_3672",
+                        "node_3681",
+                        "node_3749",
+                        "node_3715",
+                        "node_3698",
+                        "node_3703",
+                        "node_3665",
+                        "node_3690",
+                        "node_3743",
+                        "node_3679",
+                        "node_3667",
+                        "node_3720",
+                        "node_3728",
+                        "node_3752",
+                        "node_3711",
+                        "node_3737",
+                        "node_3745",
+                        "node_3705",
+                        "node_3666",
+                        "node_3694",
+                        "node_3684",
+                        "node_3734",
+                        "node_3695",
+                        "node_3675",
+                        "node_3722",
+                        "node_3671",
+                        "node_3738",
+                        "node_3724",
+                        "node_3742",
+                        "node_3716",
+                        "node_3732",
+                        "node_3696",
+                        "node_3727",
+                        "node_3751",
+                        "node_3688",
+                        "node_3718",
+                        "node_3676",
+                        "node_3706",
+                        "node_3713",
+                        "node_3673",
+                        "node_3750",
+                        "node_3710",
+                        "node_3719",
+                        "node_3677",
+                        "node_3707",
+                        "node_3735",
+                        "node_3740",
+                        "node_3726",
+                        "node_3721",
+                        "node_3689",
+                        "node_3701",
+                        "node_3693",
+                        "node_3709",
+                        "node_3731",
+                        "node_3744",
+                        "node_3739",
+                        "node_3668",
+                        "node_3685",
+                        "node_3725",
+                        "node_3918",
+                        "node_3919",
+                        "node_3920",
+                        "node_3922",
+                        "node_3921",
+                        "node_3924",
+                        "node_3923",
+                        "node_3925",
+                        "node_3926",
+                        "node_3927",
+                        "node_3934",
+                        "node_3928",
+                        "node_3929",
+                        "node_3931",
+                        "node_3930",
+                        "node_3932",
+                        "node_3933",
+                        "node_3935",
+                        "node_3939",
+                        "node_3940",
+                        "node_3942",
+                        "node_3941"
+                    ],
+                    "HasCountsOfType": [
+                        "Compound",
+                        "Substance"
+                    ],
+                    "Counts": [{
+                            "Type": "Compound",
+                            "Count": 127823
+                        },
+                        {
+                            "Type": "Substance",
+                            "Count": 130636
+                        }
+                    ]
+                },
+                "Node": [{
+                        "NodeID": "node_692",
+                        "ParentID": [
+                            "node_667"
+                        ],
+                        "Information": {
+                            "Name": "Emollient",
+                            "HNID": 4066990,
+                            "Match": true,
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 636
+                            }]
+                        }
+                    },
+                    {
+                        "NodeID": "node_667",
+                        "ParentID": [
+                            "root"
+                        ],
+                        "Information": {
+                            "Name": " S13 | EUCOSMETICS | Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006)",
+                            "Description": [
+                                "Combined Inventory of Ingredients Employed in Cosmetic Products (2000) and Revised Inventory (2006) from the scientific committee on cosmetic products and non-food products intended for consumers - SCCNFP/0389/00 Final and Commission Decision 2006/257/EC amending the Decision 96/335/EC. Provided by Peter von der Ohe, UBA, curated by Reza Aalizadeh, University of Athens. Dataset DOI:10.5281/zenodo.2624118"
+                            ],
+                            "HNID": 4066965,
+                            "ChildID": [
+                                "node_668",
+                                "node_669",
+                                "node_670",
+                                "node_671",
+                                "node_672",
+                                "node_673",
+                                "node_674",
+                                "node_675",
+                                "node_676",
+                                "node_677",
+                                "node_678",
+                                "node_679",
+                                "node_680",
+                                "node_681",
+                                "node_682",
+                                "node_683",
+                                "node_684",
+                                "node_685",
+                                "node_686",
+                                "node_687",
+                                "node_688",
+                                "node_689",
+                                "node_690",
+                                "node_691",
+                                "node_692",
+                                "node_693",
+                                "node_694",
+                                "node_695",
+                                "node_696",
+                                "node_697",
+                                "node_698",
+                                "node_699",
+                                "node_700",
+                                "node_701",
+                                "node_702",
+                                "node_703",
+                                "node_704",
+                                "node_705",
+                                "node_706",
+                                "node_707",
+                                "node_708",
+                                "node_709",
+                                "node_710",
+                                "node_711",
+                                "node_712",
+                                "node_713",
+                                "node_714",
+                                "node_715",
+                                "node_716",
+                                "node_717",
+                                "node_718",
+                                "node_719",
+                                "node_720",
+                                "node_721",
+                                "node_722",
+                                "node_723",
+                                "node_724",
+                                "node_725",
+                                "node_726",
+                                "node_727",
+                                "node_728",
+                                "node_729",
+                                "node_730",
+                                "node_731",
+                                "node_732",
+                                "node_733"
+                            ],
+                            "Counts": [{
+                                "Type": "Compound",
+                                "Count": 3840
+                            }]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

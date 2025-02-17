@@ -1,0 +1,146 @@
+/* .navbar{
+    height: 75px;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    font-family: "Poppins", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.container-fluid {
+    width:80%;
+}
+
+.progressBar {
+    display: none;
+    background-color: #ed6432;
+    height: 5px;
+    width: 0%;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.banner_bg{
+    height: 30vh;
+    width: 100%;
+    padding:20px;
+    background-image: url("./../images/blue_gradient.jpg");
+    background-size: cover; /* Ensures the image covers the container */
+    background-position: center;
+    /* border: 2px solid black; */
+}
+
+.banner_bg h1 {
+    display: inline-block;
+    margin-left: 5%;
+    /* margin: auto; */
+    margin-top: 10px;
+    color: white;
+}
+
+.banner_bg form{
+    width: 50%;
+    height: 60px;
+    padding: 12px;
+    padding-right: 60px;
+    margin: auto;
+    margin-top: 8vh;
+    /* background-color: rgb(255, 255, 255); */
+    border-radius: 5px;
+    /* border: 2px solid green; */
+}
+
+.inputFileDiv {
+    height: 40px;
+    margin-top: 17px;
+}
+
+.btn{
+    background-color: #439efa;
+    color: white;
+}
+.btn:hover{
+    background-color: #53a7fbec;
+    color: white;
+}
+
+.search_btn{
+    width: 4%;
+}
+
+.msgDiv {
+    display: none;
+    margin: auto;
+    padding: 10px;
+    min-height: 50px;
+    width: 76%;
+    /* font-size: 20px; */
+    font-weight: 450;
+    /* border: 2px solid black; */
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* border: 2px solid black; */
+}
+
+.outputDiv{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    min-height: 60vh;
+    padding: 30px 80px;
+    /* border: 2px solid black; */
+}
+
+.subDiv{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.subDiv1{
+    flex: 2;
+    box-shadow: none;
+}
+.subDiv2{
+    flex: 3;
+}
+.subDiv3{
+    flex: 3;
+}
+
+.subDiv h3, .msgDiv h3{
+    color: #5facf0;
+}
+
+.subDiv1 img{
+    height: 330px;
+    width: 270px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.contains_para{
+    font-weight:600;
+}
+
+
+.all_info{
+    width: 76%;
+    min-height: 25vh;
+    padding: 15px;
+    margin: 15px 12%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 4px;
+    border: 2px solid black;
+}
